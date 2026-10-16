@@ -1,5 +1,5 @@
 # AIR PIANO
-
+# Estudiante: Karol Stefany Saavedra Suarez
 Piano virtual que se toca **en el aire** con las manos frente a la cámara. Detecta los 10 dedos en tiempo real y reproduce la nota del dedo que baja. Tiene modo libre y dos canciones guiadas: *Jingle Bells* y la *Oda a la alegría* de Beethoven.
 
 ##  Instalación
@@ -77,6 +77,6 @@ Al inicio de `air_piano_v3.py`:
 
 ## Actividad de reconocimiento de números
 
-**Enlace:** [[Pegar aquí el enlace de la actividad]](https://github.com/karolsaavedra/Numeros_CienciaDatos.git)(#)
+**Enlace:** [[Actividad detección de números]](https://github.com/karolsaavedra/Numeros_CienciaDatos.git)(#)
 
 **Descripción:** _(breve descripción de la actividad)_
