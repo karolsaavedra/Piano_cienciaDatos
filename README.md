@@ -1,4 +1,4 @@
-# 🎹 AIR PIANO
+# AIR PIANO
 
 Piano virtual que se toca **en el aire** con las manos frente a la cámara. Detecta los 10 dedos en tiempo real y reproduce la nota del dedo que baja. Tiene modo libre y dos canciones guiadas: *Jingle Bells* y la *Oda a la alegría* de Beethoven.
 
@@ -18,7 +18,7 @@ sonidos/
 └── A4  B4  C5  D5  E5
 ```
 
-## 🎮 Uso
+## Uso
 
 | Tecla | Acción |
 |-------|--------|
